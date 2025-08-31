@@ -1,6 +1,7 @@
 .container {
     display: flex;
     justify-content: flex-start;
+    gap: 40px;
 }
 
 /*LEFT SIDE*/
@@ -61,4 +62,7 @@
 
 .right-container {
     width: 60%;
+    height: 100vh;
+    margin-right: 150px;
+    margin-top: 150px;
 }
